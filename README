@@ -1,0 +1,23 @@
+csce 896 Homework 1 Part 2
+Extension of hill climbing program to solve a sudoku square
+
+Dongpu Jin
+9/5/2012
+
+How to compile the source? 
+- Log into cse server at unl and go to /hw1/part2 directory. 
+- Type command `make clean'
+- Type command `make'
+
+How to run the program? 
+- If previous steps succeed, type command `./sudoku_solver' 
+  to run the program.
+- The program will prompts for input file name. Please enter
+  the input file name that is located in the same directory 
+  as the sudoku_solver binary.  
+
+What to expect? 
+- The program will print out the original  square as 
+  well as the corresponding sudoku square.
+- The program will also output the total time it takes 
+  to solve the problem.  
